@@ -30,7 +30,7 @@ Uma piada antiga diz que se você cair de um prédio alto, a queda não vai mach
 
 ### Ramificações de recursos
 <code><img src="https://user-images.githubusercontent.com/42481661/90053929-852f1980-dcb1-11ea-987b-458bbaa2824d.jpg" /></code>
- Ao utilizar essa features, você garante que a integração com a mainline só será feita quando o recurso estiver completamente implementado e instável. É importante sempre manter a feature atualizada com a master, mas isso ainda não é uma integração, ao final da implementação a feature volta para a master, fazendo assim, a integração
+ Ao utilizar essa features, você garante que a integração com a mainline só será feita quando o recurso estiver completamente implementado e estável. É importante sempre manter a feature atualizada com a master, mas isso ainda não é uma integração, ao final da implementação a feature volta para a master, fazendo assim, a integração
 
 ### Frequência de integração
 
@@ -51,7 +51,7 @@ Integração de baixa frequência:
 
 ### Release
 <code><img src="https://user-images.githubusercontent.com/42481661/90053938-87917380-dcb1-11ea-9cf0-9657081c873f.jpg" /></code>
- É sempre importante manter a mainline instável e sem erros, pois todos que forem iníciar um novo desenvolvimento deve confiar que irá começar em uma versão estável de desenvolvimento. A mainline estável é o principal principio da entrega continua.
+ É sempre importante manter a mainline estável e sem erros, pois todos que forem iníciar um novo desenvolvimento deve confiar que irá começar em uma versão estável de desenvolvimento. A mainline estável é o principal principio da entrega continua.
 
 ### Contatos:
 <code><img src="https://user-images.githubusercontent.com/42481661/90053939-87917380-dcb1-11ea-8092-9e6a7efffba1.jpg" /></code>
