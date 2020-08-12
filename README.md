@@ -51,7 +51,7 @@ Integração de baixa frequência:
 
 ### Release
 <code><img src="https://user-images.githubusercontent.com/42481661/90053938-87917380-dcb1-11ea-9cf0-9657081c873f.jpg" /></code>
- É sempre importante manter a mainline estável e sem erros, pois todos que forem iníciar um novo desenvolvimento deve confiar que irá começar em uma versão estável de desenvolvimento. A mainline estável é o principal principio da entrega continua.
+ É sempre importante manter a mainline estável e sem erros, pois todos que forem iníciar um novo desenvolvimento deve confiar que irá começar em uma versão estável de desenvolvimento. A mainline estável é o principal principio da entrega contínua.
 
 ### Contatos:
 <code><img src="https://user-images.githubusercontent.com/42481661/90053939-87917380-dcb1-11ea-8092-9e6a7efffba1.jpg" /></code>
