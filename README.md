@@ -40,18 +40,18 @@ Uma piada antiga diz que se você cair de um prédio alto, a queda não vai mach
 Integração de baixa frequência:
 <code><img src="https://user-images.githubusercontent.com/42481661/90053933-85c7b000-dcb1-11ea-92d7-cf1309898155.jpg" /></code>
 
-Integração de baixa frequência:
+Integração de alta frequência:
 <code><img src="https://user-images.githubusercontent.com/42481661/90053934-86604680-dcb1-11ea-9ae7-d768b7dcc8fa.jpg" /></code> 
 
 <code><img src="https://user-images.githubusercontent.com/42481661/90053936-86f8dd00-dcb1-11ea-8122-2e9efd31328c.jpg" /></code>
  Perceba que na integração de baixa frequência, existe um ponto de uma grande integração quando violets recebe o bloco de alterações de scarlet. Essa situação não ocorre na integração de baixa frequência , já que a todo momento violet recebe as alterações de scarlett e vice-versa
 
 <code><img src="https://user-images.githubusercontent.com/42481661/90053937-86f8dd00-dcb1-11ea-8d51-c66be7784716.jpg" /></code>
- Outra situação é em casos de conflitos, perceba que na integração de baixa frequência, o conflito que ocorreu no início da implementação persiste em todo o processo, sendo corrigido apenas quando violet recebe as alterações de violett. Já na integração de alta frequência, o conflito é percebido logo no começo e corrigido, não persistindo durante todo o desenvolvimento.
+ Outra situação é em casos de conflitos, perceba que na integração de baixa frequência, o conflito que ocorreu no início da implementação persiste em todo o processo, sendo corrigido apenas quando violet recebe as alterações de Scarlett. Já na integração de alta frequência, o conflito é percebido logo no começo e corrigido, não persistindo durante todo o desenvolvimento.
 
 ### Release
 <code><img src="https://user-images.githubusercontent.com/42481661/90053938-87917380-dcb1-11ea-9cf0-9657081c873f.jpg" /></code>
- É sempre importante manter a mainline estável e sem erros, pois todos que forem iníciar um novo desenvolvimento deve confiar que irá começar em uma versão estável de desenvolvimento. A mainline estável é o principal principio da entrega contínua.
+ É sempre importante manter a mainline estável e sem erros, pois todos que forem iníciar um novo desenvolvimento deve confiar que irá começar em uma versão estável de desenvolvimento. A mainline estável é o princípio essencial da entrega contínua.
 
 ### Contatos:
 <code><img src="https://user-images.githubusercontent.com/42481661/90053939-87917380-dcb1-11ea-8092-9e6a7efffba1.jpg" /></code>
